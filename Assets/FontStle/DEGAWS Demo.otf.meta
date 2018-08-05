@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c5599f9cfd0be3b4eb40ddd37476515b
+timeCreated: 1509561906
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DEGAWS Demo
+  fontNames:
+  - DEGAWS Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
